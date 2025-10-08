@@ -1,0 +1,27 @@
+K{
+    position: relative;
+ } 
+
+ #IM{
+   width: 100px;
+   height: 55px;
+    border:1px solid rgb(137, 18, 18);
+    border-radius: 5%; 
+}
+.L{
+    color: rgb(248, 150, 2);  
+}
+#KL1{
+    position: absolute;
+top: auto;
+top: 39px;
+left: 35px;
+font-size: 7px;
+  }
+#KL2{
+    position: absolute;
+  top: auto;
+  top: 49px ;
+  left: 11px;
+  font-size: 7px;
+}
